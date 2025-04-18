@@ -1,0 +1,4 @@
+C:\Users\ryans\source\repos\CIS122-HW8\CIS122-HW8\obj\Debug\net8.0\CIS122-HW8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryans\source\repos\CIS122-HW8\CIS122-HW8\obj\Debug\net8.0\CIS122-HW8.AssemblyInfoInputs.cache
+C:\Users\ryans\source\repos\CIS122-HW8\CIS122-HW8\obj\Debug\net8.0\CIS122-HW8.AssemblyInfo.cs
+C:\Users\ryans\source\repos\CIS122-HW8\CIS122-HW8\obj\Debug\net8.0\CIS122-HW8.csproj.CoreCompileInputs.cache
